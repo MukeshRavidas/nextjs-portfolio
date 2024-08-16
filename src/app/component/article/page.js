@@ -37,7 +37,7 @@ export default function Articles(){
         <div className="container mx-auto font-logo">
           <h2 className="max-md:text-4xl md:text-4xl font-bold mb-6 underline underline-offset-2 text-blue-600 md:mt-20 max-md:mt-36"> Articles</h2>
           <p className="max-md:text-2xl md:text-2xl mb-6">
-            Here, you can find my latest articles on various topics in software engineering and technology. I hope you find them insightful and informative.
+            Here you can find my latest articles on various topics in software engineering and technology. I hope you find them insightful and informative.
           </p>
   
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

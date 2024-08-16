@@ -21,7 +21,7 @@ export default function Home() {
             </div>
             <div className="text-center md:text-left mt-20">
               <p className="font-semibold font-logo text-xl md:text-3xl mb-2 max-md:text-2xl">
-                Welcome to my portfolio! I'm Mukesh Ravidas,
+                Welcome to my portfolio! I am Mukesh Ravidas.
               </p>
               <p className="max-md:text-2xl font-semibold font-logo text-xl md:text-3xl mb-2">
                 a dedicated software engineering student with a passion
@@ -30,13 +30,13 @@ export default function Home() {
                 for developing innovative and efficient solutions.
               </p>
               <p className="max-md:text-2xl font-semibold font-logo text-xl md:text-3xl mb-2">
-                Currently pursuing my degree MCA at NIT Warangal,
+                Currently pursuing my degree MCA at NIT Warangal.
               </p>
               <p className="max-md:text-2xl font-semibold font-logo text-xl md:text-3xl mb-2">
                 I have gained a solid foundation in computer science
               </p>
               <p className="max-md:text-2xl font-semibold font-logo text-xl md:text-3xl mb-2">
-                principles, coding, and software development methodologies.
+                principles coding and software development methodologies.
               </p>
             </div>
           </div>

@@ -37,7 +37,7 @@ export default function Blog(){
         <div className="container mx-auto font-logo">
           <h2 className="max-md:text-4xl md:text-4xl font-bold mb-6 underline underline-offset-2 text-blue-600 max-md:mt-36 md:mt-20">Blog</h2>
           <p className="max-md:text-2xl md:text-2xl mb-6">
-            Welcome to my blog! Here, I share my thoughts, tutorials, and insights on various topics in software engineering and technology.
+            Welcome to my blog! Here I share my thoughts tutorials and insights on various topics in software engineering and technology.
           </p>
   
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

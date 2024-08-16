@@ -4,7 +4,7 @@ import Footer from "../../component/Footer/page";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
-
+const apiUrl = process.env.NEXT_PUBLIC_API_URL;
 
 const Contact = () => {
 
@@ -42,7 +42,7 @@ const Contact = () => {
                     <div className="container mx-auto md:font-logo max-md:font-logo ">
                         <h2 className="max-md:text-6xl max-md:font-bold md:text-4xl font-bold mb-6 underline underline-offset-2 text-blue-700 max-md:mt-40 md:mt-20">Contact Me</h2>
                         <p className="mb-6 text-2xl max-md:text-4xl">
-                            I'd love to hear from you! Whether you have a question, a project idea, or just want to connect, feel free to reach out.
+                            I did love to hear from you! Whether you have a question a project idea or just want to connect feel free to reach out.
                         </p>
 
                         <div className="space-y-4">
